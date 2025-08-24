@@ -11,3 +11,9 @@ https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+
+
+
+https://docs.chain.link/data-feeds/price-feeds/addresses?network=ethereum&page=1&testnetPage=1
+https://docs.chain.link/ccip
+https://learnblockchain.cn/article/19563
